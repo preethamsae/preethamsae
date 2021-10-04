@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preethamsae
 - 👀 I’m interested in building something new
-- 🌱 I’m currently learning Data architecture design Salesforce
+- 🌱 I’m currently learning a dangerous snake😅
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me harisai2597@gmail.com
 
