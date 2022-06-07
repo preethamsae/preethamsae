@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @preethamsae
+- 👋 Hi, I’m @preettamsae
 - 👀 I’m interested in building something new everyday
 - 🌱 I’m currently learning a dangerous snake😅
 - 💞️ I’m looking to collaborate on Data Science and AI Projects
